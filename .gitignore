@@ -4,8 +4,8 @@
 
 .vscode/
 
-.fight/bin
+fight/bin/
 
-.fight/obj
+fight/obj/
 
 .fight/release
