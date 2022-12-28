@@ -1,0 +1,5 @@
+/home/nattie/Pub/Code/ScoretyFight/fight/release/fight
+/home/nattie/Pub/Code/ScoretyFight/fight/release/fight.dll
+/home/nattie/Pub/Code/ScoretyFight/fight/release/fight.deps.json
+/home/nattie/Pub/Code/ScoretyFight/fight/release/fight.runtimeconfig.json
+/home/nattie/Pub/Code/ScoretyFight/fight/release/fight.pdb

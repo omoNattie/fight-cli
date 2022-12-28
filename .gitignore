@@ -1,0 +1,11 @@
+.idea/
+
+.vs/
+
+.vscode/
+
+.fight/bin
+
+.fight/obj
+
+.fight/release

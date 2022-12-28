@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XrrzcyjZ9Xg0n264ZVPCHtYHyI/J78hwVxsMsw4Ru/fqM/mLJ6x8RhypqlcN9zawDBTF+wYrRmvmxJIoTrxE7g==",
+  "success": true,
+  "projectFilePath": "/home/nattie/Pub/Code/ScoretyFight/fight/fight.csproj",
+  "expectedPackageFiles": [
+    "/home/nattie/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.1/microsoft.aspnetcore.app.ref.7.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
